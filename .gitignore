@@ -1,5 +1,4 @@
 env
-.circleci
 *.sqlite3
 *.DS_Store
 *.log
