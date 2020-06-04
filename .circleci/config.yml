@@ -35,7 +35,7 @@ jobs:
           command: |
             . venv/bin/activate
             cd polls_api
-            python manage.py test
+            ls
 
       - store_artifacts:
           path: test-reports
